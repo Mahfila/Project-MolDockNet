@@ -170,4 +170,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-*Nur A Mahfila · mahfila2023@gmail.com · [LinkedIn](https://linkedin.com/in/mahfil) · [GitHub](https://github.com/mahfil)*
+*Nur A Mahfila · mahfila2023@gmail.com · [LinkedIn](https://www.linkedin.com/in/nur-a-mahfila) · [GitHub](github.com/Mahfila/Mahfila)*
